@@ -2,5 +2,5 @@ import { Sequelize } from 'sequelize';
 
 export const sequelize = new Sequelize({
   dialect: 'sqlite',
-  storage: './databases/cars.db3'
+  storage: './databases/quintaurbana.db3'
 });
